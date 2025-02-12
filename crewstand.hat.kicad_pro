@@ -56,7 +56,10 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "lib_footprint_mismatch|177470000|151130000|d6fcedee-1a6c-4b3b-a3f0-ef09f7e84c8c|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|242550000|151160000|213288f8-43e0-4cc0-861b-155e97816c30|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -129,7 +132,7 @@
         "min_track_width": 0.19999999999999998,
         "min_via_annular_width": 0.049999999999999996,
         "min_via_diameter": 0.39999999999999997,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -414,7 +417,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.05,
+        "clearance": 0.1524,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -424,7 +427,7 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.7,
+        "track_width": 0.2032,
         "via_diameter": 0.9,
         "via_drill": 0.6,
         "wire_width": 6

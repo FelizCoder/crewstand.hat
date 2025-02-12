@@ -37,3 +37,5 @@ fp-info-cache
 
 # exported plots Folder
 exports/
+production/
+*.zip
