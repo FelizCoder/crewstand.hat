@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/FelizCoder/crewstand.hat/compare/v1.0.1...v1.1.0) (2025-02-12)
+
+
+### Features
+
+* switch to professional PCB manufacturing service ([04fce64](https://github.com/FelizCoder/crewstand.hat/commit/04fce6482bde8b3229f7275ea6469fb067c6a64b)), closes [#7](https://github.com/FelizCoder/crewstand.hat/issues/7)
+
 ## [1.0.1](https://github.com/FelizCoder/crewstand.hat/compare/v1.0.0...v1.0.1) (2025-02-12)
 
 
