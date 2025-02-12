@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/FelizCoder/crewstand.hat/compare/v1.0.0...v1.0.1) (2025-02-12)
+
+
+### Bug Fixes
+
+* **Sensors:** correct resistor placement for analog sensor readings ([b13b00f](https://github.com/FelizCoder/crewstand.hat/commit/b13b00f41ccdcd93f972678ce98eec2645bcbf4e)), closes [#6](https://github.com/FelizCoder/crewstand.hat/issues/6)
+
 ## [1.0.0](https://github.com/FelizCoder/crewstand.hat/compare/v1.0.0...v1.0.0) (2025-02-12)
 
 
